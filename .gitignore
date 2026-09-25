@@ -1,0 +1,185 @@
+# ==============================
+
+# Flutter
+
+# ==============================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Flutter generated files
+
+.metadata
+.packages
+.flutter-plugins-dependencies
+
+# Android Studio / IntelliJ
+
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+
+.vscode/
+
+# ==============================
+
+# Flutter Platform Generated
+
+# ==============================
+
+android/.gradle/
+android/local.properties
+android/**/GeneratedPluginRegistrant.java
+
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+macos/Pods/
+macos/Flutter/ephemeral/
+
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# ==============================
+
+# Node.js / Vite
+
+# ==============================
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+dist/
+.cache/
+.vite/
+
+# ==============================
+
+# Environment / Secrets
+
+# ==============================
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+.env.*
+!.env.example
+
+# Firebase / Google credentials
+
+google-services.json
+GoogleService-Info.plist
+
+# ==============================
+
+# Firebase
+
+# ==============================
+
+.firebase/
+firebase-debug.log
+firebaserc
+
+# ==============================
+
+# Logs
+
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+
+# OS Files
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+
+# Editor / History
+
+# ==============================
+
+.history/
+*.swp
+*.swo
+*~
+
+# ==============================
+
+# Temporary / Backup
+
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+
+# ==============================
+
+# Coverage
+
+# ==============================
+
+coverage/
+
+# ==============================
+
+# Backend
+
+# ==============================
+
+linelekunda-backend/node_modules/
+linelekunda-backend/.env
+linelekunda-backend/.env.*
+linelekunda-backend/logs/
+
+# ==============================
+
+# Database files
+
+# ==============================
+
+*.sqlite
+*.sqlite3
+*.db
+
+# ==============================
+
+# Build artifacts
+
+# ==============================
+
+*.apk
+*.aab
+*.ipa
+
+# ==============================
+
+# Local files
+
+# ==============================
+
+*.local
+*.orig
+*.patch
